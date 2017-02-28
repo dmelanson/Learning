@@ -73,7 +73,7 @@ namespace CodilitySampleTests
     public class when_getting_max_time_of_0_0_0_0
     {
         [TestMethod]
-        public void should_return_NOT_POSSIBLE()
+        public void should_return_00_00()
         {
             var maxTime = new MaxTime();
             var max = maxTime.Get(0,0,0,0);
