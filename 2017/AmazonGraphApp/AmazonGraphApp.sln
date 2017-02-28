@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonGraphApp", "AmazonGraphApp\AmazonGraphApp.csproj", "{A507F788-1ABE-470C-9859-A2C52422A519}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonGraphAppLib", "AmazonGraphAppLib\AmazonGraphAppLib.csproj", "{239C7CA3-4B61-4F18-9BAB-E7D68E313BCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonGraphAppTest", "AmazonGraphAppTest\AmazonGraphAppTest.csproj", "{EBC7FD3A-E73C-474B-AC63-7896FB7C3364}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A507F788-1ABE-470C-9859-A2C52422A519}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A507F788-1ABE-470C-9859-A2C52422A519}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A507F788-1ABE-470C-9859-A2C52422A519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{239C7CA3-4B61-4F18-9BAB-E7D68E313BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239C7CA3-4B61-4F18-9BAB-E7D68E313BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239C7CA3-4B61-4F18-9BAB-E7D68E313BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239C7CA3-4B61-4F18-9BAB-E7D68E313BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC7FD3A-E73C-474B-AC63-7896FB7C3364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC7FD3A-E73C-474B-AC63-7896FB7C3364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC7FD3A-E73C-474B-AC63-7896FB7C3364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC7FD3A-E73C-474B-AC63-7896FB7C3364}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
